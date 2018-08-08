@@ -3,6 +3,7 @@
   use ClicShopping\OM\CLICSHOPPING;
   use ClicShopping\OM\Registry;
 
+  $CLICSHOPPING_MessageStack = Registry::get('MessageStack');
   $CLICSHOPPING_MoneyOrder = Registry::get('MoneyOrder');
 
   if ($CLICSHOPPING_MessageStack->exists('MoneyOrder')) {
