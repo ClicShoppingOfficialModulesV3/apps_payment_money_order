@@ -14,6 +14,18 @@ http://monsite/myAdmin/index.php?A&Payment\MoneyOrder
 
 Activate the module in Payment
 
+All informations about the CliCshopping
+
+ Community : https://www.clicshopping.org
+
+ Software : https://github.com/ClicShopping
+
+ Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+ Community add on : https://github.com/ClicShoppingV3Community
+
+ trademark License info : https://www.clicshopping.org/forum/trademark/ 
+ 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_money_order/blob/master/ModuleInfosJson/moneyorder.png)
 
 
