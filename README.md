@@ -14,7 +14,7 @@ http://monsite/myAdmin/index.php?A&Payment\MoneyOrder
 
 Activate the module in Payment
 
-All informations about the CliCshopping
+All informations about the ClicShopping
 
  Community : https://www.clicshopping.org
 
