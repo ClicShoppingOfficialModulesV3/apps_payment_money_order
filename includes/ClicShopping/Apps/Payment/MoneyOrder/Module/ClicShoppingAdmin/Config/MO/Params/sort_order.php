@@ -14,7 +14,7 @@
   class sort_order extends \ClicShopping\Apps\Payment\MoneyOrder\Module\ClicShoppingAdmin\Config\ConfigParamAbstract
   {
 
-    public $sort_order = 1000;
+    public ?int $sort_order = 1000;
     public $default = '300';
     public bool $app_configured = false;
 
